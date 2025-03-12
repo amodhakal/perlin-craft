@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 101vh;
+  overflow: hidden;
+
+  canvas {
+    width: 100%;
+    height: 100%;
+  }
+}
